@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This is the GitHub profile of Augusto Luis Ballardini. For more info about my research please visit this link (https://trigal.github.io/)[https://trigal.github.io/]. 
+This is the GitHub profile of Augusto Luis Ballardini. For more info about my research please visit this link https://trigal.github.io/.
 
-- 📫 How to reach me: augusto [dot] ballardini [at] uah [dot] es
+📫 How to reach me: augusto [dot] ballardini [at] uah [dot] es
 
 <!--
 **trigal/trigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
